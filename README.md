@@ -26,6 +26,6 @@ XOR is a simple boolean based operator
 The code might not be the most beautiful code, but hey i'm a beginner.
 However, this code is written fairly simple, so every one that has a bit of a background in mathematics and programming should be able to understand this code.
 
-So please play with it and give tips and comments.
+So please play with it and give tips and comments. And contact me!!
 
 Greetings,

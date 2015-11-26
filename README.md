@@ -16,11 +16,11 @@ The network has 2 input neurons, 2 hidden layers, and 1 output neuron. also the 
 
 About this program,
 This is my first fully funtional Neural network capable of learning the XOR problem.
-XOR is a simple boolean based operator
-1 and 1 equals 0
-1 and 0 equals 1
-0 and 1 equals 1
-0 and 0 equals 0
+XOR is a simple boolean based operator,
+1 and 1 equals 0,
+1 and 0 equals 1,
+0 and 1 equals 1,
+0 and 0 equals 0,
 -----------------------------------------------------------------------------------------------------------------------------
 
 The code might not be the most beautiful code, but hey i'm a beginner.

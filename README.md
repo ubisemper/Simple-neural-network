@@ -3,7 +3,9 @@ My first fully functional XOR neural network
 By Wytse Kraal,
 email: wykretlo@gmail.com
 
-Hello, I'm a 15 year old student at a small high school in the netherlands intreseted in machine learning and overall programming.
+(Be warned, English might be not perfect)
+
+Hello, I'm a 15 year old student at a small high school in the netherlands intrested in machine learning and overall programming.
 I'm not a pro at c++ so don't blame me for the messy code :P. On the other hand all tips and comments are welcome.
 
 to understand exactly what a i'm doing here you should need a basic understanding of neural networks.

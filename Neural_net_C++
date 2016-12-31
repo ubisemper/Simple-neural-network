@@ -17,9 +17,10 @@ float weights[9] = {};
 
 //The training date that will be passed thru the neural network
 double training_data[4][2] = { { 1, 0 },
-								{ 1, 1 },
-								{ 0, 1 },
-								{ 0, 0 } };
+			       { 1, 1 },
+			       { 0, 1 },
+			       { 0, 0 } };
+			       
 //The anwsers that the neural network should be targeting for
 int anwser_data[4] = { 1, 0, 1, 0 };
 
